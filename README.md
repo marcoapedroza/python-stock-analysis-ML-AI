@@ -16,8 +16,7 @@
   - Daily Returns Correlations;
   - Portfolio Management;
   - Backtesting.
-
--  Predicting Stock Prices :chart_with_upwards_trend: :
+- Predicting Stock Prices :chart_with_upwards_trend: :
   - [Ridge Regression Model](./predictingStockPrices_ML.ipynb) (Machine Learning Model);
   - [Long Short-Term Memory Networks](/predictingStockPrices_AI.ipynb) (Deep Learning Model).
 
